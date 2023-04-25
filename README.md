@@ -2,7 +2,7 @@
 - 🔴🔴 Hi, Viewver
 - 👋 This is MUHAMMAD AHMED @jsstackdevelopers
 - 👨‍💻 I'm Full Stack Developer
-- 🌱 I’m Software Engineering (Specialization doing in 🔴Smarts Contracts Development)
+- 🌱 I’m Software Engineering (Passionate 🔴Blockchain Developer)
 - 💞️ I’m looking to collaborate: 🚀🚀🚀🚀🚀🚀🚀🚀
 - 📫 How to reach me ... javascriptstack0011@gmail.com, a84842791@gmail.com
 
@@ -10,7 +10,7 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jsstackdevelopers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/muhammad-ahmed-668483228" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/ahmedjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/ahmed_jsstack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Github Stats
