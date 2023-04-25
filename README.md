@@ -1,5 +1,5 @@
 # React(Next).js Developer (Smart Contracts)
-- 🔴🔴 Hi, Viewver
+- 🔴🔴 Hi there,
 - 👋 This is MUHAMMAD AHMED @jsstackdevelopers
 - 👨‍💻 I'm Full Stack Developer
 - 🌱 I’m Software Engineering (Passionate 🔴Blockchain Developer)
