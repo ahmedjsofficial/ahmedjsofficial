@@ -1,4 +1,4 @@
-# Next(React).js | Blockchain | Smart Contracts Developer
+# Next(React).js | Blockchain Developer
 - 🔴🔴 Hi there,
 - 👋 This is MUHAMMAD AHMED @jsstackdevelopers
 - 👨‍💻 I'm Full Stack Developer
