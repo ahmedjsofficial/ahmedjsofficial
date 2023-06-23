@@ -1,10 +1,10 @@
-# Next(React).js | Blockchain Developer
+# **Passionate Blockchain Developer**
 - 🔴🔴 Hi there,
-- 👋 This is MUHAMMAD AHMED @ahmedjsofficial
-- 👨‍💻 I'm Full Stack Developer
-- 🌱 I’m Software Engineering (Passionate 🔴Blockchain Developer)
-- 💞️ I’m looking to collaborate: 🚀🚀🚀🚀🚀🚀🚀🚀
-- 📫 How to reach me ... javascriptstack0011@gmail.com, a84842791@gmail.com
+- 👋 This is **MUHAMMAD AHMED** @ahmedjsofficial
+- 👨‍💻 I'm **Software Engineer**
+- 🌱 Empowering Transformation Through Scalable & Interactive Applications With The Power of Blockchain Development.
+- 💞️ I’m looking forward to collaborate: 🚀🚀
+- 📫 How to reach me ... <a href="mailto:javascriptstack0011@gmail.com" target="_blank">javascriptstack0011@gmail.com</a>, <a href="mailto:a84842791@gmail.com" target="_blank">a84842791@gmail.com</a>
 
 
 ### Socials
