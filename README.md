@@ -4,7 +4,7 @@
 - 👨‍💻 I'm **Software Engineer**
 - 🌱 Empowering Transformation Through Scalable & Interactive Applications With The Power of Blockchain Development.
 - 💞️ I’m looking forward to collaborate: 🚀🚀
-- 📫 How to reach me ... <a href="mailto:javascriptstack0011@gmail.com" target="_blank">javascriptstack0011@gmail.com</a>, <a href="mailto:a84842791@gmail.com" target="_blank">a84842791@gmail.com</a>
+- 📫 How to reach me ... <a href="mailto:javascriptstack0011@gmail.com" target="_blank">javascriptstack0011@gmail.com</a>, <a href="mailto:mahmedofficial001@gmail.com" target="_blank">mahmedofficial001@gmail.com</a>
 
 
 ### Socials
