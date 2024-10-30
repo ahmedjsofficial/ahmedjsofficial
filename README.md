@@ -3,6 +3,7 @@
 - 👋 This is **MUHAMMAD AHMED** @ahmedjsofficial
 - 👨‍💻 I'm **Software Engineer**
 - 🌱 Empowering Transformation Through Scalable & Interactive Applications With The Power of Blockchain Development.
+- 💫 AI Solution Artitect and AI Constultant
 - 💞️ I’m looking forward to collaborate: 🚀🚀
 - 📫 How to reach me ... <a href="mailto:javascriptstack0011@gmail.com" target="_blank">javascriptstack0011@gmail.com</a>, <a href="mailto:mahmedofficial001@gmail.com" target="_blank">mahmedofficial001@gmail.com</a>
 
